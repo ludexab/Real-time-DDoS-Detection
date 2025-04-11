@@ -11,3 +11,6 @@ To setup and replicate this project:
 3. Finally execute the ddos-detection-model.py file.
 
 The trained model will be saved locally to the current project folder.
+
+## Result
+![image info](result.png)
