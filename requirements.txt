@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+river
+scikit-learn
+kafka-python
+pyflink
+seaborn
+matplotlib
